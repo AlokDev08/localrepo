@@ -2,4 +2,5 @@
 const a = 23;
 console.log(a);
 console.log("EGF");
+console.log("abc");
 
